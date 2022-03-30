@@ -1,0 +1,54 @@
+Booth 0
+Patient Name : Harsha
+First Name : Harsha
+Surname : Senarath
+Age : 22
+City : Dompe
+NIC or Passport Number : 34251623
+Vaccination Requested : AstraZeneca
+
+Booth 1
+Patient Name : Methmi
+First Name : Methmi
+Surname : Kodippily
+Age : 22
+City : Galle
+NIC or Passport Number : 98765432
+Vaccination Requested : AstraZeneca
+
+Booth 2
+Patient Name : Manel
+First Name : Manel
+Surname : Rupasinghe
+Age : 12
+City : Kelaniya
+NIC or Passport Number : 87654321
+Vaccination Requested : Sinopharm
+
+Booth 3
+Patient Name : Kaveesha
+First Name : Kaveesha
+Surname : Senarath
+Age : 19
+City : Sinharamulla
+NIC or Passport Number : 52341623
+Vaccination Requested : Sinopharm
+
+Booth 4
+Patient Name : Wimal
+First Name : Wimal
+Surname : Desilva
+Age : 43
+City : Galle
+NIC or Passport Number : 34251324
+Vaccination Requested : Pfizer
+
+Booth 5
+Patient Name : Shermila
+First Name : Shermila
+Surname : Perera
+Age : 43
+City : Matara
+NIC or Passport Number : 97685434
+Vaccination Requested : Pfizer
+
